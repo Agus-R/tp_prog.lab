@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1599955817 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1599930418 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\tp1\tp1\trabajo1.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1599955064 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\tp1\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1599925463 c:\users\argus\onedrive\documentos\prog-lab\tp 1\tp1\tp1\funciones.h
+	<stdio.h>
+
+1606319857 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\trabajosc\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1606313223 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\trabajosc\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1606311287 c:\users\argus\onedrive\documentos\prog-lab\tp 1\trabajosc\tp1\funciones.h
+	<stdio.h>
+
+1599930418 source:c:\users\argus\onedrive\documentos\prog-lab\tp 1\trabajosc\tp1\trabajo1.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
