@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606346822 source:c:\users\argus\onedrive\documentos\prog-lab\prog.lab\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+
+1606346825 c:\users\argus\onedrive\documentos\prog-lab\prog.lab\tp2\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606345675 source:c:\users\argus\onedrive\documentos\prog-lab\prog.lab\tp2\employee.c
+	"employee.h"
+
